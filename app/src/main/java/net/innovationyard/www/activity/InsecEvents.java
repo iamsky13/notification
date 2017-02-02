@@ -1,14 +1,12 @@
-package info.androidhive.firebasenotifications.activity;
+package net.innovationyard.www.activity;
 
 import android.app.Activity;
 import android.content.Context;
-import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
-import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.webkit.WebSettings;
@@ -18,7 +16,7 @@ import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import info.androidhive.firebasenotifications.R;
+import net.innovationyard.www.R;
 
 /**
  * Created by Aakash on 11/10/2016.

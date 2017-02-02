@@ -1,4 +1,4 @@
-package info.androidhive.firebasenotifications.service;
+package net.innovationyard.www.service;
 
 import android.content.Context;
 import android.content.Intent;
@@ -12,9 +12,9 @@ import com.google.firebase.messaging.RemoteMessage;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import info.androidhive.firebasenotifications.activity.MainActivity;
-import info.androidhive.firebasenotifications.app.Config;
-import info.androidhive.firebasenotifications.util.NotificationUtils;
+import net.innovationyard.www.activity.MainActivity;
+import net.innovationyard.www.app.Config;
+import net.innovationyard.www.util.NotificationUtils;
 
 /**
  * Created by Ravi Tamada on 08/08/16.

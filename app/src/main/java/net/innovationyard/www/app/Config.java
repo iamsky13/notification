@@ -1,6 +1,5 @@
-package info.androidhive.firebasenotifications.app;
+package net.innovationyard.www.app;
 
-import java.util.Random;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**

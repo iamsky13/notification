@@ -1,4 +1,4 @@
-package info.androidhive.firebasenotifications.activity;
+package net.innovationyard.www.activity;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -8,7 +8,6 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v4.content.LocalBroadcastManager;
 import android.support.v7.app.AppCompatActivity;
-import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -17,9 +16,9 @@ import android.widget.Toast;
 
 import com.google.firebase.messaging.FirebaseMessaging;
 
-import info.androidhive.firebasenotifications.R;
-import info.androidhive.firebasenotifications.app.Config;
-import info.androidhive.firebasenotifications.util.NotificationUtils;
+import net.innovationyard.www.R;
+import net.innovationyard.www.app.Config;
+import net.innovationyard.www.util.NotificationUtils;
 
 public class MainActivity extends AppCompatActivity {
 

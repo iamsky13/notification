@@ -1,4 +1,4 @@
-package info.androidhive.firebasenotifications.util;
+package net.innovationyard.www.util;
 
 import android.app.ActivityManager;
 import android.app.Notification;
@@ -28,8 +28,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-import info.androidhive.firebasenotifications.R;
-import info.androidhive.firebasenotifications.app.Config;
+import net.innovationyard.www.R;
+import net.innovationyard.www.app.Config;
 
 /**
  * Created by Ravi on 31/03/15.

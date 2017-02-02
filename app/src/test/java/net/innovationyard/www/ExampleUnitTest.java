@@ -1,4 +1,4 @@
-package info.androidhive.firebasenotifications;
+package net.innovationyard.www;
 
 import org.junit.Test;
 
